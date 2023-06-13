@@ -12,7 +12,7 @@ const TagComponent = styled.div`
     }
 `;
 
-const Tags: React.FC= ({ tags }: Pick<BannerPropstype, 'tags'>) => {
+const Tags = ({ tags }: Pick<BannerPropstype, 'tags'>) => {
     return (
         <TagComponent>
             {tags.map((tag: string, index: number) => (

@@ -5,7 +5,11 @@ const BannerTile = (props: BannerPropstype) => {
     const { title, image, tags, description } = props;
     return (
         <Banner image={image}>
-            <Banner.Title />
+            <Banner.Title title={title} />
+            <Banner.Tags tags={tags} />
+            <Banner.Description description={description} />
         </Banner>
     )
 }
+
+export default BannerTile;

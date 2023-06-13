@@ -12,7 +12,7 @@ const StyledDescriptionComponent = styled.div`
     overflow: hidden;
 `;
 
-const DescriptionComponent: React.FC = ({ description }: Pick<BannerPropstype, 'description'>) => {
+const DescriptionComponent = ({ description }: Pick<BannerPropstype, 'description'>) => {
     return (
         <StyledDescriptionComponent>{description}</StyledDescriptionComponent>
     )

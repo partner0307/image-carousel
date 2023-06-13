@@ -1,8 +1,9 @@
 import React from 'react';
-import Banner from '../components/Banner';
+import Slider from '../components/HeroBanner';
 
-const Dashboard: React.FC = () => {
+const Dashboard = () => {
     return <>
+        <Slider />
     </>
 }
 

@@ -8,7 +8,7 @@ const TitleComponent = styled.div`
     color: white;
 `;
 
-const Title: React.FC = ({ title }: Pick<BannerPropstype, 'title'>) => {
+const Title = ({ title }: Pick<BannerPropstype, 'title'>) => {
     return <TitleComponent>{ title }</TitleComponent>;
 }
 

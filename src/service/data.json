@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "title": "The Last of Us",
+      "genres": ["Drama"],
+      "cover_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uKvVjHNqB5VmOrdxqAt2F7J78ED.jpg",
+      "description": "Twenty years after modern civilization has been destroyed, Joel, a hardened survivor, is hired to smuggle Ellie, a 14-year-old girl, out of an oppressive quarantine zone. What starts as a small job soon becomes a brutal, heartbreaking journey, as they both must traverse the United States and depend on each other for survival."
+    },
+    {
+      "title": "Fight Club",
+      "genres": ["Drama", "Thriller", "Comedy"],
+      "cover_url": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg",
+      "description": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground fight clubs forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion."
+    },
+    {
+      "title": "Creed III",
+      "genres": ["Drama", "Thriller"],
+      "cover_url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg",
+      "description": "After dominating the boxing world, Adonis Creed has been thriving in both his career and family life. When a childhood friend and former boxing prodigy, Damien Anderson, resurfaces after serving a long sentence in prison, he is eager to prove that he deserves his shot in the ring. The face-off between former friends is more than just a fight. To settle the score, Adonis must put his future on the line to battle Damien - a fighter who has nothing to lose."
+    },
+    {
+      "title": "Die Hard",
+      "genres": ["Action", "Thriller"],
+      "cover_url": "https://www.themoviedb.org/t/p/w1280/yFihWxQcmqcaBR31QM6Y8gT6aYV.jpg",
+      "description": "NYPD cop John McClane's plan to reconcile with his estranged wife is thrown for a serious loop when, minutes after he arrives at her office, the entire building is overtaken by a group of terrorists. With little help from the LAPD, wisecracking McClane sets out to single-handedly rescue the hostages and bring the bad guys down."
+    }
+  ]
+}

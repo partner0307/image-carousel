@@ -30,7 +30,7 @@ const Container = styled.div<{ image: string }>`
     }
 `;
 
-const Banner = ({ image, children }) => {
+const Banner = ({ image, children }: any) => {
     return (
         <Container image={image}>
             <div>{children}</div>
